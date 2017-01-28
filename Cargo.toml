@@ -1,0 +1,14 @@
+[package]
+name = "ilsuiw"
+version = "0.1.0"
+authors = ["Lynn <lynn@foldr.moe>"]
+description = "Redis-backed fact database Discord bot"
+repository = "https://github.com/lynn/ilsuiw"
+license = "MIT"
+
+[dependencies]
+regex = "0.2"
+discord = "0.7.0"
+redis = "0.5.3"
+lazy_static = "0.2.2"
+
