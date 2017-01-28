@@ -6,3 +6,5 @@ ilsuiw listens to the following commands:
     !learn del topic[2]            (Remove a fact in the "topic" entry.)
     ??topic[3]                     (Query a fact.)
     ??topic                        (Equivalent to ??topic[1].)
+
+Launch with the environment variable `DISCORD_TOKEN` set to your bot’s token, while running a Redis server on `redis://127.0.0.1`.
