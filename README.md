@@ -1,4 +1,6 @@
 # ilsuiw
+ilsuiw is a Discord bot that mimics the Sequell fact database bot in the `##crawl` IRC channel on freenode.
+
 ilsuiw listens to the following commands:
 
     !learn add topic fact          (Append a fact to the "topic" entry.)
